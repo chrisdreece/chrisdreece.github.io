@@ -2,16 +2,5 @@
 title: "About"
 ---
 
-I think the evidence I've summarized speaks for itself, but if it helps you to take me seriously, I'm a full-time Data Scientist with a Master's in Statistics from the Wharton School, and a PhD in Sociology from the University of Pennsylvania. I don't do much social media but you can find me on [linkedin.](https://www.linkedin.com/in/chrisreecesociology/)
+I think the evidence I've summarized speaks for itself, but if it helps you to take me seriously, I'm a full-time Data Scientist with a master's in Statistics from the Wharton School, and a PhD in Sociology from the University of Pennsylvania. I don't do much social media but you can find me on [linkedin.](https://www.linkedin.com/in/chrisreecesociology/)
 
-<div id="contact">
-        <h2>Get in Touch</h2>
-        <div id="contact-form">
-                <form action="https://formspree.io/f/mrgranlg" method="POST">
-                <input type="hidden" name="_subject" value="Contact request from personal website" />
-                <input type="email" name="_replyto" placeholder="Your email" required>
-                <textarea name="message" placeholder="Type your message" required></textarea>
-                <button type="submit">Send</button>
-            </form>
-        </div>
-</div>
