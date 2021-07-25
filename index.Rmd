@@ -12,7 +12,7 @@ As the delta variant of COVID-19 spreads and infects a growing number of fully v
 * Long-term damage to the senses of smell and taste
 * Increased risk of dementia later in life
 
-This evidence is hard to accept, in part because most people who have recovered from a mild case of COVID-19 report no lingering symptoms. This is likely because the neurological damage associated with COVID-19 is generally mild enough to be imperceptible to the individual, at least initially. However, it is still measurable -- people with a history of mild COVID-19 perform worse on cognitive tests and show physical evidence of brain tissue degeneration. Moreover, the lasting brain changes associated with mild COVID-19 appear "strikingly similar to those associated with Alzheimer’s disease or other forms of dementia,"^[https://www.news-medical.net/news/20210618/Alarming-COVID-study-indicates-long-term-loss-of-gray-matter-and-other-brain-tissue.aspx] leading researchers to speculate about a coming epidemic of dementia among COVID-19 surivors.
+This evidence is hard to accept, in part because most people who have recovered from a mild case of COVID-19 report no lingering symptoms. This is likely because the neurological damage associated with COVID-19 is generally mild enough to be imperceptible to the individual, at least initially. However, it is still measurable -- people with a history of mild COVID-19 perform worse on cognitive tests and show physical evidence of brain tissue degeneration. Moreover, the lasting brain changes associated with mild COVID-19 appear "strikingly similar to those associated with Alzheimer’s disease or other forms of dementia,"^[https://www.news-medical.net/news/20210618/Alarming-COVID-study-indicates-long-term-loss-of-gray-matter-and-other-brain-tissue.aspx] leading researchers to speculate about a coming epidemic of dementia among COVID-19 survivors.
 
 Unlike the initial wave of the COVID-19 pandemic, the coming wave will not involve mass lockdowns, due in part to the perception that vaccinated individuals are safe. People will need to identify their own risk tolerance and act accordingly. The evidence below has convinced me to take every precaution possible to avoid a mild infection of COVID-19, even though I am fully vaccinated. I've collected and presented the evidence here in an accessible format because I believe that more people will adopt this protective stance if they understand what these under-reported data are suggesting.
 
@@ -33,8 +33,8 @@ Unlike the initial wave of the COVID-19 pandemic, the coming wave will not invol
 
 * **Sample Population**: 84,285 Britons
 * **Method**: Intelligence Test
-* **Finding**: COVID-19 surivors--included those who'd had mild cases--performed worse on intelligence tests compared to healthy controls
-* **Media Coverage*:
+* **Finding**: COVID-19 survivors--included those who'd had mild cases--performed worse on intelligence tests compared to healthy controls
+* **Media Coverage**:
     + [Recovered COVID-19 patients exhibit cognitive deficits](https://www.news-medical.net/news/20201022/Recovered-COVID-19-patients-exhibit-cognitive-deficits.aspx)
     
 ## Study #3
@@ -43,8 +43,8 @@ Unlike the initial wave of the COVID-19 pandemic, the coming wave will not invol
 
 * **Sample Population**: 93 Villagers in Atahualpa, Peru; 52 survivors of mild COVID-19 and 41 healthy controls
 * **Method**: Cognitive assessments and brain scans
-* **Finding**: Surivivors of mild COVID-19 were 18 times more likely to exhibit cognitive decline
-* **Media Coverage*:
+* **Finding**: Survivors of mild COVID-19 were 18 times more likely to exhibit cognitive decline
+* **Media Coverage**:
     + [Recovered COVID-19 patients exhibit cognitive deficits](https://www.news-medical.net/news/20201022/Recovered-COVID-19-patients-exhibit-cognitive-deficits.aspx)
 
 ## Study #4
