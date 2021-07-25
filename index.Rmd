@@ -1,24 +1,60 @@
 ---
-title: "Me Homepage"
+title: "Mild Covid-19 Causes Brain Damage"
 ---
 
 
-## R Markdown
+## A Summary of The Evidence
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+As the delta variant of COVID-19 spreads and infects a growing number of fully vaccinated people, many vaccinated individuals take comfort in the fact that the a 'breakthrough' infection is likely to be mild. However, a growing body of evidence suggests that **a mild case of COVID-19 is likely to cause permanent brain damage.** As the studies summarized below indicate, the likely consequences of this brain damage include:
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+* Long-term, potentially permanent cognitive impairment
+* Memory problems
+* Long-term damage to the senses of smell and taste
+* Increased risk of dementia later in life
 
-```{r cars}
-summary(cars)
-```
+This evidence is hard to accept, in part because most people who have recovered from a mild case of COVID-19 report no lingering symptoms. This is likely because the neurological damage associated with COVID-19 is generally mild enough to be imperceptible to the individual, at least initially. However, it is still measurable -- people with a history of mild COVID-19 perform worse on cognitive tests and show physical evidence of brain tissue degeneration. Moreover, the lasting brain changes associated with mild COVID-19 appear "strikingly similar to those associated with Alzheimer’s disease or other forms of dementia,"^[https://www.news-medical.net/news/20210618/Alarming-COVID-study-indicates-long-term-loss-of-gray-matter-and-other-brain-tissue.aspx] leading researchers to speculate about a coming epidemic of dementia among COVID-19 surivors.
 
-## Including Plots
+Unlike the initial wave of the COVID-19 pandemic, the coming wave will not involve mass lockdowns, due in part to the perception that vaccinated individuals are safe. People will need to identify their own risk tolerance and act accordingly. The evidence below has convinced me to take every precaution possible to avoid a mild infection of COVID-19, even though I am fully vaccinated. I've collected and presented the evidence here in an accessible format because I believe that more people will adopt this protective stance if they understand what these under-reported data are suggesting.
 
-You can also embed plots, for example:
+## Study #1
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+[Brain imaging before and after COVID-19 in UK Biobank](https://www.medrxiv.org/content/10.1101/2021.06.11.21258690v1)
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+* **Sample Population**: 394 COVID-19 survivors (most had mild cases) and 379 healthy controls
+* **Method**: Brain scans conducted pre- and post-infection
+* **Finding**: COVID-19, including mild cases, accelerates tissue deterioration in several regions of the brain
+* **Media Coverage**:
+    + [Alarming COVID study indicates long-term loss of gray matter and other brain   tissue](https://www.news-medical.net/news/20210618/Alarming-COVID-study-indicates-long-term-loss-of-gray-matter-and-other-brain-tissue.aspx)
+
+
+## Study #2
+
+[Cognitive deficits in people who have recovered from COVID-19 relative to controls](https://www.medrxiv.org/content/10.1101/2020.10.20.20215863v1)
+
+* **Sample Population**: 84,285 Britons
+* **Method**: Intelligence Test
+* **Finding**: COVID-19 surivors--included those who'd had mild cases--performed worse on intelligence tests compared to healthy controls
+* **Media Coverage*:
+    + [Recovered COVID-19 patients exhibit cognitive deficits](https://www.news-medical.net/news/20201022/Recovered-COVID-19-patients-exhibit-cognitive-deficits.aspx)
+    
+## Study #3
+
+[Cognitive decline among individuals with history of mild symptomatic SARS-CoV-2 infection](https://onlinelibrary.wiley.com/doi/full/10.1111/ene.14775)
+
+* **Sample Population**: 93 Villagers in Atahualpa, Peru; 52 survivors of mild COVID-19 and 41 healthy controls
+* **Method**: Cognitive assessments and brain scans
+* **Finding**: Surivivors of mild COVID-19 were 18 times more likely to exhibit cognitive decline
+* **Media Coverage*:
+    + [Recovered COVID-19 patients exhibit cognitive deficits](https://www.news-medical.net/news/20201022/Recovered-COVID-19-patients-exhibit-cognitive-deficits.aspx)
+
+## Study #4
+
+[Frequent neurocognitive deficits after recovery from mild COVID-19](https://academic.oup.com/braincomms/article/2/2/fcaa205/5998660)
+
+* **Sample Population**: 18 adults, mostly young adults, who had recovered from mild-to-moderate COVID-19
+* **Method**: Cognitive assessments
+* **Finding**: 78% of COVID-19 patients performed poorly on cognitive tests, compared to healthy controls. "Our results demonstrate that sustained sub-clinical cognitive impairments might be a common complication after recovery from COVID-19 in young adults."
+
+
+
+
